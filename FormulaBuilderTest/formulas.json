@@ -1,0 +1,11 @@
+{
+	"formulas": [{
+        "id" : "formula_1",
+		"name": "Multiplication",
+		"steps":[
+			"field_1",
+			"*",
+			"field_2"
+		]
+	}]
+}

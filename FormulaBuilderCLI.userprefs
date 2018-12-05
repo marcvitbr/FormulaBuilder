@@ -1,0 +1,42 @@
+﻿<Properties StartupItem="FormulaBuilderCLI/FormulaBuilderCLI.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormulaBuilderCLI" expanded="True">
+            <Node name="FormulaBuilder" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="packages.config" selected="True" />
+            </Node>
+            <Node name="FormulaBuilderCLI" expanded="True" />
+            <Node name="FormulaBuilderTest" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="FormulaBuilderCLI" expanded="True">
+            <Node name="FormulaBuilderTest" expanded="True">
+              <Node name="FormulaBuilderTest" expanded="True">
+                <Node name="CalculatorTest" expanded="True">
+                  <Node name="ExecuteAFormulaAndGetResult" selected="True" />
+                </Node>
+                <Node name="FormulaTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

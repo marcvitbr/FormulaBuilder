@@ -1,0 +1,6 @@
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilder/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilder/bin/Debug/FormulaBuilder.dll.mdb
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilder/bin/Debug/FormulaBuilder.dll
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilder/obj/Debug/FormulaBuilder.dll
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilder/obj/Debug/FormulaBuilder.dll.mdb
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilder/bin/Debug/NCalc.dll

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaBuilderCLI", "FormulaBuilderCLI\FormulaBuilderCLI.csproj", "{AE27205C-EB77-459F-A0EB-6DEBF15B445D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaBuilder", "FormulaBuilder\FormulaBuilder.csproj", "{A9792DAB-BADD-478A-8358-A14A9E218313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaBuilderTest", "FormulaBuilderTest\FormulaBuilderTest.csproj", "{95604ED8-8012-4027-9DFD-429CB4FAEEC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95604ED8-8012-4027-9DFD-429CB4FAEEC4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{95604ED8-8012-4027-9DFD-429CB4FAEEC4}.Debug|x86.Build.0 = Debug|Any CPU
+		{95604ED8-8012-4027-9DFD-429CB4FAEEC4}.Release|x86.ActiveCfg = Release|Any CPU
+		{95604ED8-8012-4027-9DFD-429CB4FAEEC4}.Release|x86.Build.0 = Release|Any CPU
+		{A9792DAB-BADD-478A-8358-A14A9E218313}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A9792DAB-BADD-478A-8358-A14A9E218313}.Debug|x86.Build.0 = Debug|Any CPU
+		{A9792DAB-BADD-478A-8358-A14A9E218313}.Release|x86.ActiveCfg = Release|Any CPU
+		{A9792DAB-BADD-478A-8358-A14A9E218313}.Release|x86.Build.0 = Release|Any CPU
+		{AE27205C-EB77-459F-A0EB-6DEBF15B445D}.Debug|x86.ActiveCfg = Debug|x86
+		{AE27205C-EB77-459F-A0EB-6DEBF15B445D}.Debug|x86.Build.0 = Debug|x86
+		{AE27205C-EB77-459F-A0EB-6DEBF15B445D}.Release|x86.ActiveCfg = Release|x86
+		{AE27205C-EB77-459F-A0EB-6DEBF15B445D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

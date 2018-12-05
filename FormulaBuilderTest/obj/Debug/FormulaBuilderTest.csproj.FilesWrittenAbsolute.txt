@@ -1,0 +1,10 @@
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/bin/Debug/FormulaBuilderTest.dll.mdb
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/bin/Debug/FormulaBuilderTest.dll
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/obj/Debug/FormulaBuilderTest.dll
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/obj/Debug/FormulaBuilderTest.dll.mdb
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/bin/Debug/nunit.framework.dll
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/bin/Debug/Moq.dll
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/bin/Debug/FormulaBuilder.dll
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/bin/Debug/FormulaBuilder.dll.mdb
+/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/bin/Debug/NCalc.dll

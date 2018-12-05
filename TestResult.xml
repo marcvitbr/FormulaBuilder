@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/bin/Debug/FormulaBuilderTest.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-05-02" time="11:19:54">
+  <environment nunit-version="2.6.4.14350" clr-version="4.0.30319.17020" os-version="Unix 15.3.0.0" platform="Unix" cwd="/Users/marcvit/Projects/FormulaBuilderCLI" machine-name="Marcelos-MBP.home" user="marcvit" user-domain="Marcelos-MBP.home" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="/Users/marcvit/Projects/FormulaBuilderCLI/FormulaBuilderTest/bin/Debug/FormulaBuilderTest.dll" executed="True" result="Success" success="True" time="0.283" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="FormulaBuilderTest" executed="True" result="Success" success="True" time="0.277" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="CalculatorTest" executed="True" result="Success" success="True" time="0.270" asserts="0">
+            <results>
+              <test-case name="FormulaBuilderTest.CalculatorTest.ExecuteAFormulaAndGetResult" executed="True" result="Success" success="True" time="0.266" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="FormulaTest" executed="True" result="Success" success="True" time="0.003" asserts="0">
+            <results>
+              <test-case name="FormulaBuilderTest.FormulaTest.AddingFormulaStepsShouldRepresentTheStructureOfTheFormula" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
